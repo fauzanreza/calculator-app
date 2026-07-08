@@ -47,5 +47,5 @@ jobs:
           tagName: v__VERSION__
           releaseName: 'Calculator v__VERSION__'
           releaseBody: 'Rilis terbaru Calculator App dengan Natural Textbook Display.'
-          releaseDraft: true
+          releaseDraft: false
           prerelease: false
